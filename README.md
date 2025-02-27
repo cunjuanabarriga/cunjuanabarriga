@@ -3,7 +3,7 @@
 #### Diseño de modas | Tercer semestre 
 ---
 #### 👤 Descripcion
-Me considero una persona amable, respe
+Me considero una persona organizada, responsable y con capacidad para trabajar en equipo,  eficiente al momento de ejecutar cualquier tarea, también aprendo con facilidad ,además tengo interés en el sector de la moda.
 
 ---
 #### 🎓 Estudios obtenidos
