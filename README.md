@@ -14,5 +14,5 @@ Me considero una persona amable, respe
 
 | Compañeros | Link |
 | ------ | ------ |
-| Sara | ...|
+| Sara  | ...|
 | Angel Nuñez | https://github.com/cun-angelnunez |
