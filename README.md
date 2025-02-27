@@ -11,7 +11,7 @@ Me considero una persona amable, respe
 *Instituto Tecnico Comercial Sagrados Corazones* --- Julio 2022 - Diciembre 2023
 ###### Tecnico en contabilizacion de operaciones comerciales y financieras
 *Servicio nacional de aprendizaje (SENA)* --- febrero 2022 - noviembre 2023 
-
+---
 | Compañeros | Link |
 | ------ | ------ |
 | Sara  | ...|
