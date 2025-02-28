@@ -15,5 +15,5 @@ Me considero una persona organizada, responsable y con capacidad para trabajar e
 ---
 | Compañeros | Link |
 | ------ | ------ |
-| Sara  | ...|
+| Sara  | https://github.com/cunsarasalazar/cunsarasalazar/blob/main/README.md|
 | Angel Nuñez | https://github.com/cun-angelnunez |
